@@ -17,4 +17,5 @@
 .
 ├── index.html   # 앱의 구조 및 레이아웃
 ├── style.css    # 디자인 및 반응형 스타일링
-└── script.js    # LocalStorage 연동 및 메모 관리 로직
+├── script.js    # LocalStorage 연동 및 메모 관리 로직
+└── README.md    # 설명 페이지
